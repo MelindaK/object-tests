@@ -79,7 +79,7 @@ def test_object_relationships():
     # NOTE: To test that it really works, you probably want to create a Menu
     # with a list that includes things that *aren't* desserts, like integers.
 
-    assert False  # Take this line out, it forces the test to fail
+    # assert False  # Take this line out, it forces the test to fail
 
     # Create a cakes() method that does the same thing.
     # This code is the test for cakes():
